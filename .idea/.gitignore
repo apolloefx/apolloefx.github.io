@@ -2,3 +2,8 @@
 # Default ignored files
 /workspace.xml
 .idea
+/misc.xml
+/deployment.xml
+/modules.xml
+/vcs.xml
+/www.iml
